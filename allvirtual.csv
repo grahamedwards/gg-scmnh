@@ -1,1 +1,39 @@
-title,id,frequency,keywordsSanta Cruz Formations,1,weekly,localA Geologist's Toolkit,2,weekly,scienceThe Building Blocks of Rocks (Minerals),3,weekly,hard rockThe Curious Case of the Three Rock Types,4,weekly,hard rockIgneous Rocks,5,weekly,hard rockSedimentary Rocks,6,weekly,hard rockMetamorphic Rocks,7,weekly,hard rockChemical Sedimentary Rocks,8,weekly,hard rockGeologic Time (1/2),9,weekly,"Earth history, research, series"Geologic Time (2/2),10,weekly,"Earth history, research, series"Behind the Scenes with a Scientist,11,weekly,scienceScience Communication,12,weekly,scienceVolcanoes and Mass Extinctions,13,weekly,hard rockVolcanoes and Mass Extinctions (intro),14,weekly,hard rockThe Melting of the East Antarctic Ice Sheet,15,weekly,"research, climate, polar"California State Symbols,16,weekly,"local, hard rock"Coastal Geology,17,weekly,"local, hard rock, marine"115 Years of Geologic History in Santa Cruz,18,weekly,localImpacts of Fire on Soil and Water,19,monthly,"climate, local"Building Appalachia,20,monthly,"hard rock, Earth history"Caves,21,monthly,localSupercontinents,22,monthly,Earth historyThe Ice Ages,23,monthly,climatePaleoclimatology,24,monthly,climateThe Varieties of Volcanoes,25,monthly,hard rockBiogenic Geology,26,monthly,The Moon!,27,monthly,planetaryGreat Geologic Landmarks,28,monthly,The Ocean Floor,29,monthly,marineGreat Geologic Goodbyes,30,monthly,Earth historyWhat Even IS North America?,31,monthly,Earth historyDangerous Minerals,32,monthly,"holiday, hard rock"The Motions of the Oceans and the Atmosphere,33,monthly,"climate, local, marine"The Geologic History of Plants,34,monthly,Earth historySeasonal Changes of Sea Ice,35,monthly,"climate, polar, marine"Terrestrial Planets of our Solar System,36,monthly,"planetary, series"The Giants of our Solar System (giant planets),37,monthly,"planetary, series"The End of An Era (meteorites and the solar system),38,monthly,"planetary, series"
+title,id,freq,keywords
+Santa Cruz Formations,1,weekly,"local,"
+A Geologist's Toolkit,2,weekly,"science,"
+The Building Blocks of Rocks (Minerals),3,weekly,"hard rock, "
+The Curious Case of the Three Rock Types,4,weekly,"hard rock, "
+Igneous Rocks,5,weekly,"hard rock, "
+Sedimentary Rocks,6,weekly,"hard rock, "
+Metamorphic Rocks,7,weekly,"hard rock, "
+Chemical Sedimentary Rocks,8,weekly,"hard rock, "
+Geologic Time (1/2),9,weekly,"Earth history, research, series"
+Geologic Time (2/2),10,weekly,"Earth history, research, series"
+Behind the Scenes with a Scientist,11,weekly,"science,"
+Science Communication,12,weekly,"science,"
+Volcanoes and Mass Extinctions,13,weekly,"hard rock,"
+Volcanoes and Mass Extinctions (intro),14,weekly,"hard rock,"
+The Melting of the East Antarctic Ice Sheet,15,weekly,"research, climate, polar"
+California State Symbols,16,weekly,"local, hard rock"
+Coastal Geology,17,weekly,"local, hard rock, marine"
+115 Years of Geologic History in Santa Cruz,18,weekly,"local,"
+Impacts of Fire on Soil and Water,19,monthly,"climate, local"
+Building Appalachia,20,monthly,"hard rock, Earth history"
+Caves,21,monthly,"local,"
+Supercontinents,22,monthly,"Earth history, "
+The Ice Ages,23,monthly,"climate,"
+Paleoclimatology,24,monthly,"climate,"
+The Varieties of Volcanoes,25,monthly,"hard rock,"
+Biogenic Geology,26,monthly,life
+The Moon!,27,monthly,"planetary,"
+Great Geologic Landmarks,28,monthly,"Earth history,"
+The Ocean Floor,29,monthly,"marine,"
+Great Geologic Goodbyes,30,monthly,"Earth history,"
+What Even IS North America?,31,monthly,"Earth history,"
+Dangerous Minerals,32,monthly,"holiday, hard rock"
+The Motions of the Oceans and the Atmosphere,33,monthly,"climate, local, marine"
+The Geologic History of Plants,34,monthly,"Earth history,life"
+Seasonal Changes of Sea Ice,35,monthly,"climate, polar, marine"
+Terrestrial Planets of our Solar System,36,monthly,"planetary, series"
+The Giants of our Solar System (giant planets),37,monthly,"planetary, series"
+The End of An Era (meteorites and the solar system),38,monthly,"planetary, series"
